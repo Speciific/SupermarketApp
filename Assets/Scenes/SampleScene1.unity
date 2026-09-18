@@ -27027,7 +27027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a04ea17add91c941beb9c44ac2d1c5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accessToken: pk.eyJ1Ijoic3BlY2lpZmljIiwiYSI6ImNtNXp0cng3eDA2bWMyanNleDZjZmpidWMifQ.VTv4HW5_FwXAdTQdpbRThg
+  accessToken: pk.ey
   centerLatitude: 44.3302
   centerLongitude: 23.7949
   zoom: 13
